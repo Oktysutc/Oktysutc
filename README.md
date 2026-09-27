@@ -1,10 +1,10 @@
-Hello there, I'm Oktay Sütçü 👋
-
+                                         Hello there, I'm Oktay Sütçü 👋
+                                                 
 I have experience in software development and information technology. In addition to developing front-end and back-end applications, I have worked on system, network, and user support processes. I enjoy finding solutions to technical problems, learning new technologies, and improving my skills.
 
  ⚡ IT Support | Software Developer ⚡
 
-🛠️ Technologies 🛠️
+                                            🛠️ Technologies 🛠️
 
 🔭Software Development;
 C#, ASP.NET Core MVC, .NET Core, MSSQL, EF Core, LINQ, OOP, Layered Architecture, REST API, Git/GitHub, HTML, CSS, JavaScript, Bootstrap, jQuery
