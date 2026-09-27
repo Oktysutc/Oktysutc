@@ -1,35 +1,28 @@
 Hello there, I'm Oktay Sütçü 👋
 
-IT Support | Software Developer
+I have experience in software development and information technology. In addition to developing front-end and back-end applications, I have worked on system, network, and user support processes. I enjoy finding solutions to technical problems, learning new technologies, and improving my skills.
 
-🛠️ Technologies
+ ⚡ IT Support | Software Developer ⚡
 
-**Software Development**
-- C#
-- .NET / .NET Core
-- ASP.NET Core MVC
-- Entity Framework Core
-- REST API
-- MSSQL / SQL
-- HTML
+                          🛠️ Technologies 🛠️
+
+**Software Development**                     **IT & Systems**         
+- C#                                         - Active Directory 
+- .NET / .NET Core                           - Windows Server 
+- ASP.NET Core MVC                           - Microsoft 365 
+- Entity Framework Core                      - Helpdesk
+- REST API                                   - Network & Hardware Support
+- MSSQL / SQL                                - Ağ Altyapısı (Switch/Router)
+- HTML                                       - CRM
 - CSS
 - JavaScript
 
-- **IT & Systems**
-- Active Directory
-- Windows Server
-- Microsoft 365
-- Helpdesk
-- Network & Hardware Support
-
 - 📌 Projects
-
 - Education Management Platform
-- ASP.NET Core Projects
-- SQL Database Projects
+- My Parking Lot
+- Agricultural Technology
 
 - 📫 Contact
-
 - LinkedIn: [Oktay Sütçü](https://www.linkedin.com/in/oktay-s%C3%BCt%C3%A7%C3%BC-469b8425a)
 - Email: oktysutc@gmail.com
 
