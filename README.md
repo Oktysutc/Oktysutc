@@ -8,6 +8,7 @@ I have experience in software development and information technology. In additio
 
 🔭Software Development;
 C#, ASP.NET Core MVC, .NET Core, MSSQL, EF Core, LINQ, OOP, Layered Architecture, REST API, Git/GitHub, HTML, CSS, JavaScript, Bootstrap, jQuery
+
 🔭IT Systems & Support;
 Active Directory, Windows Server, Group Policy, CRM, Network Infrastructure (TCP/IP, Switches/Routers/Access Points), Hardware & Technical Support, Performance Monitoring & Automation, Troubleshooting, Help Desk / Ticketing, Office 365
 
