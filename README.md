@@ -6,14 +6,14 @@ I have experience in software development and information technology. In additio
 
                           🛠️ Technologies 🛠️
 
-**Software Development**                     **IT & Systems**         
-- C#                                         - Active Directory 
-- .NET / .NET Core                           - Windows Server 
-- ASP.NET Core MVC                           - Microsoft 365 
-- Entity Framework Core                      - Helpdesk
-- REST API                                   - Network & Hardware Support
-- MSSQL / SQL                                - Ağ Altyapısı (Switch/Router)
-- HTML                                       - CRM
+**Software Development**          "           **IT & Systems**         
+- C#                              "           - Active Directory 
+- .NET / .NET Core                "           - Windows Server 
+- ASP.NET Core MVC                "           - Microsoft 365 
+- Entity Framework Core           "           - Helpdesk
+- REST API                        "           - Network & Hardware Support
+- MSSQL / SQL                     "           - Ağ Altyapısı (Switch/Router)
+- HTML                            "           - CRM
 - CSS
 - JavaScript
 
